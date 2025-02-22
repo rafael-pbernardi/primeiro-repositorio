@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+{
+string nome;
+cout << "qual é seu nome";
+cin >> nome
+cout << " seja bem vindo' << nome;
